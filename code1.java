@@ -14,9 +14,10 @@ class code1 {
     public static void main(String[] args) {
         Student s1 = new Student();
 
-        s1.name = "Sumukh";
+        s1.name = "Manvith";
         s1.age = 20;
         s1.marks = 88.5;
         s1.display();
     }
 }
+
